@@ -18,6 +18,10 @@ http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 https://streaming.televizor-24-tochka.ru/live/213.m3u8
 #EXTINF:-1 group-title="Информационные", НТВ Мир (4)
 https://stream8.cinerama.uz/1434/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", НТВ Сериал
+https://cdn.ntv.ru/th_serial/index.m3u8
+#EXTINF:-1 group-title="Кино и сериалы", НТВ Сериал (2)
+http://stream.mcquack.net/301/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://ngrch.github.io/iptv/logos/otr.png", ОТР
 https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
 #EXTINF:-1 tvg-name="Карусель" tvg-logo="https://i.imgur.com/4fFMlVq.png" tvg-id="Karusel.ru" tvg-chno="9" tvg-country="RU" group-title="Russia",Карусель Ⓢ
@@ -76,8 +80,6 @@ https://hls-mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
 http://stream.mcquack.net/135/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://ngrch.github.io/iptv/logos/muz_tv.png", Муз ТВ
 https://stream8.cinerama.uz/1200/index.m3u8
-#EXTINF:-1 tvg-name="НТВ" tvg-logo="https://i.imgur.com/DtQX5P2.png" tvg-id="NTV.ru" tvg-chno="4" tvg-country="RU" group-title="Russia",НТВ Ⓢ
-http://ott-cdn.ucom.am/s17/index.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png", НТВ +1
 https://cdn.ntv.ru/ntv1/index.m3u8
 #EXTINF:-1 group-title="Основные (региональные)" tvg-logo="https://ngrch.github.io/iptv/logos/ntv.png", НТВ +2
