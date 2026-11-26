@@ -8,20 +8,20 @@ https://live.smotrim.ru/vgtrk/0/russia1-hd/index.m3u8
 http://77.232.131.211/Rossiya24/index.m3u8
 #EXTINF:-1 tvg-name="Россия-24 (1080p)" tvg-logo="https://i.imgur.com/tpqsFzm.png" tvg-id="Russia24.ru" tvg-chno="7" tvg-country="RU" group-title="Russia",Россия-24 (1080p)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/0/russia24-hd/1080p.m3u8
+#EXTINF:-1 group-title="Информационные", Россия РТР
+https://streaming.televizor-24-tochka.ru/live/211.m3u8
+#EXTINF:-1 group-title="Познавательные", Неизвестная Россия
+https://cdn.ntv.ru/unknown_russia/index.m3u8
+#EXTINF:-1 group-title="Познавательные", Неизвестная Россия (2)
+http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
 #EXTINF:-1 group-title="Популярные" tvg-logo="https://ngrch.github.io/iptv/logos/you.png", Ю (4)
 https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
 #EXTINF:-1 group-title="Информационные", НТВ Мир
 https://streaming.thestream.cyou/live/213.m3u8
-#EXTINF:-1 group-title="Информационные", НТВ Мир (2)
-http://5.188.159.128:8070/ntvmir_TV/index.m3u8
 #EXTINF:-1 group-title="Информационные", НТВ Мир (3)
 https://streaming.televizor-24-tochka.ru/live/213.m3u8
 #EXTINF:-1 group-title="Информационные", НТВ Мир (4)
 https://stream8.cinerama.uz/1434/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", НТВ Сериал
-https://cdn.ntv.ru/th_serial/index.m3u8
-#EXTINF:-1 group-title="Кино и сериалы", НТВ Сериал (2)
-http://stream.mcquack.net/301/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://ngrch.github.io/iptv/logos/otr.png", ОТР
 https://flussonic.mkpnet.ru/tv-22ed9087cd194d2b/video.m3u8
 #EXTINF:-1 tvg-name="Карусель" tvg-logo="https://i.imgur.com/4fFMlVq.png" tvg-id="Karusel.ru" tvg-chno="9" tvg-country="RU" group-title="Russia",Карусель Ⓢ
@@ -271,8 +271,6 @@ https://english-livetx.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXM
 https://stream8.cinerama.uz/1456/index.m3u8
 #EXTINF:-1 group-title="Информационные", DW
 https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
-#EXTINF:-1 group-title="Информационные", Россия РТР
-https://streaming.televizor-24-tochka.ru/live/211.m3u8
 #EXTINF:-1 group-title="Информационные", Euronews
 https://stream8.cinerama.uz/1024/index.m3u8
 #EXTINF:-1 group-title="Информационные", Euronews (2)
@@ -1056,10 +1054,6 @@ https://stream8.cinerama.uz/1414/index.m3u8
 https://stream8.cinerama.uz/1420/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Приключения (2)
 http://stream.mcquack.net/198/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Неизвестная Россия
-https://cdn.ntv.ru/unknown_russia/index.m3u8
-#EXTINF:-1 group-title="Познавательные", Неизвестная Россия (2)
-http://185.23.80.23:8080/NeizvestnayaRossia/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая Планета
 https://stream8.cinerama.uz/1250/index.m3u8
 #EXTINF:-1 group-title="Познавательные", Живая Планета (2)
