@@ -16,6 +16,8 @@ https://flussonic.mkpnet.ru/tv-3b21847ece4b1c19/video.m3u8
 https://streaming.thestream.cyou/live/213.m3u8
 #EXTINF:-1 group-title="Информационные", НТВ Мир (3)
 https://streaming.televizor-24-tochka.ru/live/213.m3u8
+#EXTINF:-0 group-title="Кино и сериалы", Ты супер!
+https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://ngrch.github.io/iptv/logos/sts.png", СТС
 http://stream.mcquack.net/138/index.m3u8
 #EXTINF:-1 group-title="Основные" tvg-logo="https://ngrch.github.io/iptv/logos/otr.png", ОТР
@@ -675,8 +677,6 @@ https://cdn-dvr.ntv.ru/sledstvie/tracks-v1a1/rewind-240.ts.m3u8
 https://cdn-dvr.ntv.ru/Pes/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-0 group-title="Кино и сериалы", Скорая помощь
 https://cdn-dvr.ntv.ru/Skoraja_pomosh/tracks-v1a1/rewind-240.ts.m3u8
-#EXTINF:-0 group-title="Кино и сериалы", Ты супер!
-https://cdn-dvr.ntv.ru/Super/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", Смотрим
 https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/playlist.m3u8
 #EXTINF:-1 group-title="Кино и сериалы", NSC
